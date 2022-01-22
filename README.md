@@ -1,1 +1,1 @@
-# alpro-uas-7-left-triangle-patter-number
+# Jawaban untuk melengkapi jawaban soal nomor 7
